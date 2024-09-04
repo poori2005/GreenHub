@@ -1,0 +1,21 @@
+
+
+.plants-shop{
+    color: rgb(38, 73, 13);
+    padding-left: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5%;
+    border-color: rgb(6, 98, 43);
+}
+.plant {
+    text-align: center  ;
+    padding: 20px; 
+    background-color: #f8f9fa;
+    width: 400px;
+    height: 400px;
+    color: #008000;
+}
+.plants-list{
+    display: flex;
+    flex-direction: row;
+}
